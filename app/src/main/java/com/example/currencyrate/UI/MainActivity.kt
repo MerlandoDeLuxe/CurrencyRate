@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun observeViewModel() {
-        viewModel.getAllCurrencies()
+//        viewModel.getAllCurrencies()
 //        viewModel.listOfCurrenciesLD.observe(this, {
 //            listOfCurrencies = it
 //        })
