@@ -21,7 +21,7 @@ abstract class CurrencyAdapter : RecyclerView.Adapter<CurrencyAdapter.CurrencyVi
         val textViewRUBToCurrency =
             itemView.findViewById<TextView>(R.id.textViewRUBToCurrency)
     }
-
+//
 //    var listOfCurrencies: ArrayList<Valute> = arrayListOf()
 //        set(value) {
 //            field = value
